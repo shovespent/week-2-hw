@@ -62,7 +62,8 @@ p{
 
 .headshot{
   float: left;
-  width: 300px;
+  width: 250px;
+  margin-right: 5%
 }
 
 .img_responsive{
